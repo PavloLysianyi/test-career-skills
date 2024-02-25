@@ -1,8 +1,8 @@
 {
-  "name": "career-skills",
+  "name": "test-career-skills",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavlolysianyi.github.io/career-skills/",
+  "homepage": "https://pavlolysianyi.github.io/test-career-skills/",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
