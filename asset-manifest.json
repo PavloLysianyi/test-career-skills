@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/career-skills/static/css/main.d98cbf64.css",
+    "main.js": "/career-skills/static/js/main.51585326.js",
+    "static/media/picture@2x.png": "/career-skills/static/media/picture@2x.74a3d0a511d2f9354195.png",
+    "static/media/picture@1x.png": "/career-skills/static/media/picture@1x.b3d9942b3f9d5dad1ff0.png",
+    "static/media/logo.svg": "/career-skills/static/media/logo.5388d802dd506072cdfe8eade4237768.svg",
+    "static/media/circle.svg": "/career-skills/static/media/circle.8c948eb92a537a801efdd020f44f32c5.svg",
+    "index.html": "/career-skills/index.html",
+    "main.d98cbf64.css.map": "/career-skills/static/css/main.d98cbf64.css.map",
+    "main.51585326.js.map": "/career-skills/static/js/main.51585326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d98cbf64.css",
+    "static/js/main.51585326.js"
+  ]
+}
